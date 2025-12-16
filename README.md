@@ -29,7 +29,7 @@ A real-time PID temperature controller implemented on the STM32F429ZI Discovery 
 - [Building & Flashing](#building--flashing)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
+- [References](#references)
 
 ---
 
